@@ -490,8 +490,7 @@ SOFTWARE.
 ### Get Help
 - **Issues**: [GitHub Issues](https://github.com/yourusername/cubesolver/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/cubesolver/discussions)
-- **Email**: support@cubesolver.app
-
+- **Email**: ekanshagarwal9090@gmail.com
 ### FAQ
 
 **Q: Does the app work offline?**  
